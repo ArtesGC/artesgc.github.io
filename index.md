@@ -64,4 +64,4 @@ Contagem de visitantes - Counting visitors \
 
 ---
 
-`Direitos Autorais 2019-2021 Nurul-GC`
+                                                    `Direitos Autorais 2019-2021 Nurul-GC`
