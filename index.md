@@ -31,7 +31,8 @@
 #### About the Site
 
      ArtesGC was created in February 2019 by the young Student Nurul GC
-     in order to group other young people and encourage them to share their knowledge in the most diverse didactic areas.
+     in order to group other young people and encourage them
+     to share their knowledge in the most diverse didactic areas.
 
      Currently a student of Programming, Computer Network, Telecommunications and Medicine ..
 
@@ -64,4 +65,4 @@ Contagem de visitantes - Counting visitors \
 
 ---
 
-                                        Direitos Autorais 2019-2021 Nurul-GC
+`Direitos Autorais 2019-2021 Nurul-GC`
