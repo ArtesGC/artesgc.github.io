@@ -62,4 +62,6 @@ Contagem de visitantes - Counting visitors \
 ![Pagina Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/artesgc/) \
 ![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:nuruldecarvalho@gmail.com)
 
+---
+
 `Direitos Autorais 2019-2021 Nurul-GC`
