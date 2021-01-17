@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# ArtesGC - Comunidade de Apoio a educação social
 
-You can use the [editor on GitHub](https://github.com/ArtesGC/artesgc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Olá caro entusiasta 👋
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Sobre o Site
 
-### Markdown
+    A ArtesGC foi criada em Fevereiro de 2019 pelo jovem Estudante Nurul GC
+    com o intuito de agrupar outros jovens e incentivá-los a partilharem
+    os seus conhecimentos nas mais diversas áreas didácticas..
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    Atualmente estudante de Programação, Rede de Computadores, Telecomunicações e Medicina..
 
-```markdown
-Syntax highlighted code block
+    Nurul Hosny Gaspar de Carvalho (Nurul GC) é um jovem Angolano,
+    Muçulmano de 21 anos residente em Pretoria – Africa do Sul.
+    Com uma longa lista de afazeres por completar..
 
-# Header 1
-## Header 2
-### Header 3
+#### Confira as Nossas Metas Laborais
 
-- Bulleted
-- List
+    Apoio ao Desenvolvimento sócio-cultural
+    Apoio a carreira Técnica e Profissional dos Jovens em Comunidades
+    Formação e Capacitação de quadros nas mais diversas áreas profissionais
 
-1. Numbered
-2. List
+**Para mais informações visite o website: [ArtesGC](https://artesgc.home.blog)**
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+# ArtesGC - Social Education Support Community
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Hello dear enthusiast 👋
 
-### Jekyll Themes
+#### About the Site
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArtesGC/artesgc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+     ArtesGC was created in February 2019 by the young Student Nurul GC
+     in order to group other young people and encourage them to share their knowledge in the most diverse didactic areas.
 
-### Support or Contact
+     Currently a student of Programming, Computer Network, Telecommunications and Medicine ..
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+     Nurul Hosny Gaspar de Carvalho (Nurul GC) is a young Angolan,
+     21 year old Muslim resident in Pretoria - South Africa.
+     With a long to-do list to complete ..
+
+#### Check out our Labor Goals
+
+     Support for socio-cultural development
+     Support for Technical and Professional Careers for Young People in Communities
+     Training and qualification of staff in the most diverse professional areas
+
+**For more information visit the website: [ArtesGC](https://artesgc.home.blog)**
+
+---
+
+#### Mais Estados - More Status 💻
+
+Contagem de visitantes - Counting visitors \
+![](https://profile-counter.glitch.me/ArtesGC/count.svg)
+
+#### Perfis sociais - Social profiles 🤓
+
+![Website - ArtesGC](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://artesgc.home.blog/) \
+![Pagina Facebook -ArtesGC](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/artesgc.home.blog/) \
+![Perfil Twitter](https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/NurulGC3) \
+![Pagina Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/artesgc/) \
+![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:nuruldecarvalho@gmail.com)
+
+``` Direitos Autorais 2019-2021 [Nurul-GC](https://github.com/Nurul-GC)
