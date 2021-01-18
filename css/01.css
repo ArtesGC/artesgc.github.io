@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(39, 56, 87);
+    font-family: cambria;
+    color: bisque;
+}
+
+.header{
+    text-align: right;
+}
+
+/* Dropdown Botao */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px;
+    font-size: 14px;
+    border: 5px 5px 5px rgba(0, 0, 0, 0.529);
+    border-radius: 10px;
+}
+
+/* o container <div> - precisa de posicionar o conteudo do dropdown */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+/* Dropdown conteudo (oculto por Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.529);
+    z-index: 1;
+}
+
+/* Links dentro do dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none; /*eliminando o sublinhado dos links*/
+    display: block;
+}
+
+/* mudar cor dos links dropdown ao pairar sobre */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* mostrar o menu dropdown ao pairar sobre */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+main{
+    background-color: rgb(50, 85, 124);
+    text-align: center;
+    width: 600px;
+    height: 380px;
+    padding: 50px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.529);
+}
+
+main #intro{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+}
+
+main img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(22, 72, 87);
+}
+
+#copy{
+    font-size: small;
+    color: white;
+    text-decoration: none;
+}
+
+#copy a{
+    color: white;
+    text-decoration: none;
+}
