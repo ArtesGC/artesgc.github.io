@@ -35,5 +35,5 @@ Contagem de visitantes - Counting visitors \
 
 ---
 
-**Para mais informações visite o website: [ArtesGC](https://artesgc.home.blog)**
+**Para mais informações visite o website: [ArtesGC](https://artesgc.home.blog)** \
 &copy; 2019-2021 [Nurul-GC](httpas://mailto:nuruldecarvalho@gmail.com)
