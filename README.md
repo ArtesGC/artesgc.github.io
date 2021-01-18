@@ -1,6 +1,6 @@
 # artesgc.github.io
 
-introOnline - ArtesGC
+Apresentação Online do repositório - ArtesGC
 
 ---
 
