@@ -23,7 +23,7 @@
 ### Mais Estados 💻
 
 Contagem de visitantes \
-![count-visitors](https://profile-counter.glitch.me/ArtesGC/count.svg)
+![contagem-visitantes](https://profile-counter.glitch.me/ArtesGC/count.svg)
 
 ### Perfis sociais 🤓
 
