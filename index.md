@@ -1,9 +1,3 @@
----
-title: ArtesGC - Github
-author: Nurul-GC
-icon: './img/favicon.ico'
----
-
 # [ArtesGC - WebSite](https://artesgc.home.blog)
 
 ## Olá Mundo - Hello World 👋
